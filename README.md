@@ -410,6 +410,7 @@ No official Linux desktop app. The Bot computer in the cloud is already Linux. T
 - [anomalia](https://github.com/anomaliaso/anomalia) - Open-source Grok Bot-shaped marketing desk. Plans, writes, and publishes only after you approve.
 - [hydo](https://github.com/fortun8te/hydo) - Local MIT desktop roster on Hermes Agent. Named teammates, channels, one shared box.
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - Open-source local Grok Bot-shaped desktop and iOS stack aimed at NVIDIA DGX Spark.
+- [kwant](https://github.com/alexsergivan/kwant) - Self-hosted bot team in one binary. Spaces, local models, @mention handoffs, approvals, and routines. Rust; Mac and Linux apps.
 
 ## Tutorials
 

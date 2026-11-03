@@ -410,6 +410,7 @@ Zoom 桌面授权目前会报 4700。已经有 Ultra 再绑 SuperGrok Plus 不�
 - [anomalia](https://github.com/anomaliaso/anomalia) - 开源的 Grok Bot 形营销台。策划、写稿、发布都要人点头。
 - [hydo](https://github.com/fortun8te/hydo) - 本机 MIT 桌面花名册，跑在 Hermes Agent 上。具名队友、频道、一台共用电脑。
 - [snorlax-bot](https://github.com/chinghauchu/snorlax-bot) - 面向 DGX Spark 的开源本地版 Grok Bot 形态桌面与 iOS 运行时。
+- [kwant](https://github.com/alexsergivan/kwant) - 单个二进制的自托管机器人团队。支持空间、本地模型、@提及交接、审批和例行任务。Rust 编写，提供 Mac 和 Linux 应用。
 
 ## 社区教程
 
